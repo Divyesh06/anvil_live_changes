@@ -5,7 +5,7 @@
   "version": "1.0",  
    "commands": {
     "update_form": {
-      "suggested_key": "Alt + U",
+      "suggested_key": "Ctrl + Shift + U",
       "description": "Update the current anvil form"
     }
   },
