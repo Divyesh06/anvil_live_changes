@@ -1,0 +1,23 @@
+{  
+  "manifest_version": 3,  
+  "name": "Anvil App Live Changes",  
+  "description": "Preview live changes on Anvil App",  
+  "version": "1.0",  
+   "commands": {
+    "update_form": {
+      "suggested_key": "Alt + U",
+      "description": "Update the current anvil form"
+    }
+  },
+"background": {
+    "service_worker": "runtime.js"
+  },
+  "permissions": [  
+   "tabs",  
+   "storage","scripting"	  
+  ],  
+"host_permissions": [  
+   "https://anvil.works/",
+  "https://*.anvil.app/"	  
+  ]  
+ }  
