@@ -12,7 +12,7 @@ This browser extension allows you to preview live changes on your Anvil App
 4. Enable 'Developer mode'
 5. Click on 'Load Unpacked'
 6. Select the folder containing 'manifest.json' and 'runtime.js'
-7. Set the keyboard shortcut for updating your anvil app by visiting chrome://extensions/shortcuts or keep it default (Alt+U)
+7. Set the keyboard shortcut for updating your anvil app by visiting chrome://extensions/shortcuts or keep it default (Ctrl + Shift + U)
 8. Test it out by running your anvil app in a new tab and then making any change to your code
 
 **Notes :** 
