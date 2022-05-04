@@ -23,7 +23,7 @@ async function use_value() {
     x =
       `code=` +
       `"""` +
-      result["Code"].replaceAll("\u200b", "") +
+      result["Code"].replaceAll("\u200b", "").replaceAll("\u00a0", "") +
       `"""` +
       `
 lines=code.splitlines()
