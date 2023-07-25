@@ -1,3 +1,5 @@
+## <code>Note: Due to changes to Anvil, this extension will no longer work as of now. Will work on making this functional in the future</code>
+
 # Anvil Live Changes
 By [Divyesh Lakhotia](https://anvil.works/forum/u/divyeshlakhotia/summary)
 
@@ -17,8 +19,5 @@ This browser extension allows you to preview live changes on your Anvil App
 
 **Notes :** 
 1. This extension has only been tested on Chrome yet and may not support all browsers
-2. You may need to press the keyboard shortcut 2-3 times before the changes show up (Not sure why this happens yet)
-3. Only changes to Code are supported. Any change made through Design will not show up
-4. Please be on the Anvil Editor tab while pressing the keyboard shortcut
-
-
+2. Only changes to Code are supported. Any change made through Design will not show up
+3. Please be on the Anvil Editor tab while pressing the keyboard shortcut
